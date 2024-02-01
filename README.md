@@ -88,7 +88,7 @@ como toda la configuración de dependencias:
 
 ```
 
-### Criterios del proyecto
+### 5. Criterios de aceptación mínimos del proyecto
 
 #### Definición del producto
 
