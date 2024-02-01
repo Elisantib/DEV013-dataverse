@@ -113,6 +113,7 @@ Se realizó una serie de preguntas para poder definir nuestros usuarios, el prod
 Además, se han creado historias de usuario para abordar cada funcionalidad, facilitando la planificación de los sprints al desglosar cada historia en tareas específicas.
 
 ***Historia de usuario 1*** :
+
 Yo como fan del anime Sakura Card Captor quiero que ver imagenes de las cartas clow.
 - Tareas:
 
@@ -156,6 +157,47 @@ Las opciones deben desplegarse y ocultarse de manera fluida en una ventana.
     - Las opciones de ordenamiento son visualmente accesibles y comprensibles para el usuario.
 
 ***Historia de usuario 3*** :
+
+Como fan del anime "Sakura Card Captor", quiero poder filtrar las cartas clow según su elemento y según su peligrosidad, es decir cuales cartas son inofensivas y cuales cartas son peligrosas.
+
+- Tareas:
+
+   - Crear secciones en HTML que permitan al usuario seleccionar las opciones de filtrado según el elemento de las cartas (opciones disponibles: climáticos, naturaleza, dualidad, mágicos, emoción, versátil, tiempo).
+   - Establecer secciones en HTML que permitan al usuario seleccionar las opciones de filtrado según la peligrosidad de las cartas (opciones disponibles: peligrosas e inofensivas).
+   - Implementar las funciones de filtrado.
+
+- Criterio de aceptación:
+
+   - Presentar claramente las opciones de filtrado correspondientes.
+   - Las opciones deben desplegarse y ocultarse de manera fluida para mejorar la experiencia del usuario.
+   - Incluir títulos descriptivos que faciliten la comprensión de las opciones de filtrado.
+   - Al seleccionar una opción, las cartas deben filtrarse de acuerdo con la elección realizada.
+
+- Definición de terminado:
+
+   - Las cartas se filtran correctamente según los criterios especificados.
+   - Las opciones de filtrado son visualmente accesibles y comprensibles para el usuario, mejorando la usabilidad del sistema.
+
+***Historia de usuario 4*** :
+
+Como fan del anime "Sakura Card Captor", quiero poder ver algunas estadísticas de las cartas clow.
+
+- Tareas:
+
+   - Definir el tipo de estadísticas a visualizar, incluyendo porcentajes de daño (peligrosa e inofensiva) y porcentajes según quién capturó las cartas (Sakura o Syaoran).
+   - Implementar funciones para calcular cada estadística y presentar los resultados
+
+- Criterio de aceptación:
+
+   - Presentar de manera clara las opciones de estadísticas disponibles para el usuario.
+   - Las opciones deben desplegarse y ocultarse de manera fluida, mejorando  la experiencia del usuario.
+   - Incluir títulos descriptivos que faciliten la comprensión de las opciones de estadísticas.
+   - Al seleccionar una opción, se debe mostrar un párrafo con el porcentaje correspondiente a la estadística seleccionada.
+
+- Definición de terminado:
+
+   - La estadística seleccionada se presenta claramente al usuario.
+   - Las opciones de selección son claras y comprensibles para el usuario, facilitando su interacción con la funcionalidad de estadísticas.
 
 
 #### Generar los datos
