@@ -135,6 +135,26 @@ Yo como fan del anime Sakura Card Captor quiero que ver imagenes de las cartas c
 
 ***Historia de usuario 2*** :
 
+Como fan del anime "Sakura Card Captor", deseo tener la capacidad de ordenar las cartas para visualizar únicamente las cartas, ya sea de manera ascendente o descendente según el orden alfabético.
+
+- Tareas:
+
+    - Crear un espacio en HTML para que el usuario pueda seleccionar la opción de ordenamiento deseada (dos opciones disponibles: A-Z y Z-A).
+    - Implementar la función de ordenamiento.
+
+
+- Criterio de aceptación:
+
+   - Debe presentar dos opciones claramente definidas (A-Z y Z-A).
+Las opciones deben desplegarse y ocultarse de manera fluida en una ventana.
+   - Incluir un título descriptivo para facilitar la comprensión del usuario.
+   - Al seleccionar una opción, las cartas deben ordenarse de acuerdo con la elección realizada.
+
+- Definición de terminado:
+
+    - Las cartas se ordenan correctamente de manera ascendente y descendente según lo especificado.
+    - Las opciones de ordenamiento son visualmente accesibles y comprensibles para el usuario.
+
 ***Historia de usuario 3*** :
 
 
