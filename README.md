@@ -46,16 +46,16 @@ o mínimo, etc).
 
 Aquí definimos en más detalle las funcionalidades que tiene:
 
-####***Filtrado*** :
+***Filtrado*** :
 Los usuarios tendrán la capacidad de explorar y filtrar las cartas disponibles en la plataforma de acuerdo con sus preferencias individuales. En particular, la opción de filtrar las cartas según su elemento, ya sea climático, relacionado con la naturaleza, de dualidad, mágico, emocional, versátil o vinculado al tiempo. Asimismo, la capacidad de filtrar las cartas según su nivel de peligrosidad, permitiéndoles distinguir entre cartas peligrosas e inofensivas.
 
 La implementación de esta funcionalidad brindará a los usuarios la flexibilidad para personalizar su experiencia, centrándose en los elementos o características que más les interesen en un momento dado. Esto contribuirá a la eficiencia en la exploración y facilitará la búsqueda de cartas específicas dentro de la plataforma
 
-####***Ordenamiento*** :
+***Ordenamiento*** :
 
 Los usuarios tendrán de la capacidad de ordenar las cartas proporcionadas de manera ascendente (A-Z) o descendente (Z-A), según sus preferencias individuales. Esta funcionalidad les permitirá realizar búsquedas más efectivas y personalizadas, facilitando la localización de cartas específicas de acuerdo con sus necesidades y preferencias.
 
-####***Estadísticas*** :
+***Estadísticas*** :
 
 Adicionalmente a las funcionalidades previamente mencionadas, los usuarios tendrán la capacidad de acceder a estadísticas específicas de las cartas. Estas estadísticas incluirán el porcentaje de cartas catalogadas como peligrosas y el porcentaje correspondiente a cartas inofensivas. Asimismo, se proporcionará información detallada sobre el porcentaje de cartas capturadas por 'Sakura' y el porcentaje correspondiente a las cartas capturadas por 'Syaoran'. Esta característica ofrecerá a los usuarios una visión más detallada y completa de las dinámicas y resultados relacionados con las cartas dentro de la plataforma.
 
