@@ -206,7 +206,7 @@ Se generaron los datos con la temática de Cartas Clow del anime de Sakura Card 
 
 * `id`: Identificador único (no pueden haber dos elementos con el mismo `id`).
   Debe ser un string de no más de 32 characteres, en minúscula, compuesto solo
-  por letras, números, underscore (`_`) o guión (`-`). Por ejemplo: `"ada-lovelace"`.
+  por letras, números, underscore (`_`) o guión (`-`).
 * `name`: El nombre del personaje, país, película, etc.
 * `shortDescription`: Descripción corta del elemento. Esta descripción deberá
   tener como máximo 20 palabras.
