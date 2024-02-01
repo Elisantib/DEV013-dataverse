@@ -8,6 +8,8 @@
 * [4. Consideraciones técnicas](#4-consideraciones-técnicas)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
 * [6. Prompt utilizado](#6-Prompt-utilizado)
+* [7. Prototipo de baja fidelidad](7#-Prototipo-de-baja-fidelidad)
+* [8. Producto Final](8#-Producto-Final)
 
 ***
 ## 1. Resumen del proyecto
@@ -248,3 +250,15 @@ Se generaron los datos con la temática de Cartas Clow del anime de Sakura Card 
 ![Chatgpt-captura](src/imgs/1captura.png) 
 ![chatgpt-captura](src/imgs/captura.png)
 
+## 7. Prototipo de baja fidelidad
+
+![prototipo de alta fidelidad](https://github.com/Elisantib/DEV013-text-analyzer/assets/142262726/e894dcd8-96b9-4ad4-96fb-843f9ac73a52)
+
+## 8. Producto Final
+
+![navegador-escritorio-1](https://github.com/Elisantib/DEV013-text-analyzer/assets/142262726/49524940-952d-481e-ad9b-dc528a22a2d1)
+![navegador-escritorio-2](https://github.com/Elisantib/DEV013-text-analyzer/assets/142262726/f73ebe76-e3f6-4474-92e9-cf118e8c491f)
+![navegador-escritorio-3](https://github.com/Elisantib/DEV013-text-analyzer/assets/142262726/82a85d53-da42-4f88-a3f2-eeaa6a086eb3)
+![navegador-escritorio-4](https://github.com/Elisantib/DEV013-text-analyzer/assets/142262726/f52c59f6-7f43-47e5-885b-1b680f718df5)
+![navegador-escritorio-5](https://github.com/Elisantib/DEV013-text-analyzer/assets/142262726/9fa6f380-5e1e-466a-b172-52d01cb04497)
+![navegador-escritorio-6](https://github.com/Elisantib/DEV013-text-analyzer/assets/142262726/0bdcba5d-0f75-4c92-ab3e-6c8b843896eb)
