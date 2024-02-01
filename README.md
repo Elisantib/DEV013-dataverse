@@ -112,7 +112,7 @@ Se realizó una serie de preguntas para poder definir nuestros usuarios, el prod
 #### Historias de usuario
 Además, se han creado historias de usuario para abordar cada funcionalidad, facilitando la planificación de los sprints al desglosar cada historia en tareas específicas.
 
-####***Historia de usuario 1*** :
+***Historia de usuario 1*** :
 Yo como fan del anime Sakura Card Captor quiero que ver imagenes de las cartas clow.
 - Tareas:
 
@@ -133,9 +133,9 @@ Yo como fan del anime Sakura Card Captor quiero que ver imagenes de las cartas c
     - Corren bien los test del prompting
     - Es Responsive
 
-####***Historia de usuario 2*** :
+***Historia de usuario 2*** :
 
-####***Historia de usuario 3*** :
+***Historia de usuario 3*** :
 
 
 #### Generar los datos
