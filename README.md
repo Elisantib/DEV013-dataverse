@@ -7,10 +7,7 @@
 * [3. Funcionalidades](#3-funcionalidades)
 * [4. Consideraciones técnicas](#4-consideraciones-técnicas)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
-* [6. Hacker edition](#6-hacker-edition)
-* [7. Objetivos de aprendizaje](#7-objetivos-de-aprendizaje)
-* [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
-* [9. Consideraciones para pedir tu Project Feedback](#9-consideraciones-para-pedir-tu-project-feedback)
+* [6. Prompt utilizado](#6-Prompt-utilizado)
 
 ***
 ## 1. Resumen del proyecto
@@ -248,7 +245,7 @@ Se generaron los datos con la temática de Cartas Clow del anime de Sakura Card 
   pero sin restricciones sobre el tipo de dato del valor. Por ejemplo:
 
 
-#### Prompt utilizado
+## 6. Prompt utilizado
 
 
 ![Chatgpt-captura](src/imgs/1captura.png) 
