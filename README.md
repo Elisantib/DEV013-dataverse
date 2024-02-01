@@ -199,7 +199,7 @@ Como fan del anime "Sakura Card Captor", quiero poder ver algunas estadísticas 
    - Las opciones de selección son claras y comprensibles para el usuario, facilitando su interacción con la funcionalidad de estadísticas.
 
 
-#### Generar los datos
+#### Generación de los datos
 
 Se generaron los datos con la temática de Cartas Clow del anime de Sakura Card Captor. Se utilizó el chatgpt para generarlos en el cual obtuvimos 1 array con 24 objetos con las siguientes propiedades a considerar:
 
