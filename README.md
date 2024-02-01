@@ -47,6 +47,7 @@ o mínimo, etc).
 Aquí definimos en más detalle las funcionalidades que tiene:
 
 ***Filtrado*** :
+
 Los usuarios tendrán la capacidad de explorar y filtrar las cartas disponibles en la plataforma de acuerdo con sus preferencias individuales. En particular, la opción de filtrar las cartas según su elemento, ya sea climático, relacionado con la naturaleza, de dualidad, mágico, emocional, versátil o vinculado al tiempo. Asimismo, la capacidad de filtrar las cartas según su nivel de peligrosidad, permitiéndoles distinguir entre cartas peligrosas e inofensivas.
 
 La implementación de esta funcionalidad brindará a los usuarios la flexibilidad para personalizar su experiencia, centrándose en los elementos o características que más les interesen en un momento dado. Esto contribuirá a la eficiencia en la exploración y facilitará la búsqueda de cartas específicas dentro de la plataforma
