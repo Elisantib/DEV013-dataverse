@@ -239,10 +239,7 @@ Se generaron los datos con la temática de Cartas Clow del anime de Sakura Card 
   o un `string` de no más de 64 caracteres (este **no** tiene restricciones sobre
   el tipo de caracteres que puede contener).
  
-* `extraInfo`: Y por último un campo libre opcional, similar a `facts`. Si lo
-  necesitas, aquí puedes poner cualquier otro tipo de información en formato
-  donde puedes poner otra info que necesites en formato `"nombre": "valor"`,
-  pero sin restricciones sobre el tipo de dato del valor. Por ejemplo:
+* `extraInfo`: Y por último un campo libre opcional, similar a `facts`. Aquí se coloca cualquier otro tipo de información.
 
 
 ## 6. Prompt utilizado
