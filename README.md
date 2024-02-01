@@ -8,8 +8,8 @@
 * [4. Consideraciones técnicas](#4-consideraciones-técnicas)
 * [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
 * [6. Prompt utilizado](#6-Prompt-utilizado)
-* [7. Prototipo de baja fidelidad](7#-Prototipo-de-baja-fidelidad)
-* [8. Producto Final](8#-Producto-Final)
+* [7. Prototipo de baja fidelidad](#7-Prototipo-de-baja-fidelidad)
+* [8. Producto Final](#8-Producto-Final)
 
 ***
 ## 1. Resumen del proyecto
