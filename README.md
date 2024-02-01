@@ -2,15 +2,15 @@
 
 ## Índice
 
-* [1. Resumen del proyecto](#2-resumen-del-proyecto)
-* [2. Consideraciones generales](#3-consideraciones-generales)
-* [3. Funcionalidades](#4-funcionalidades)
-* [4. Consideraciones técnicas](#5-consideraciones-técnicas)
-* [5. Criterios de aceptación mínimos del proyecto](#6-criterios-de-aceptación-mínimos-del-proyecto)
-* [6. Hacker edition](#7-hacker-edition)
-* [7. Objetivos de aprendizaje](#8-objetivos-de-aprendizaje)
-* [8. Pistas, tips y lecturas complementarias](#9-pistas-tips-y-lecturas-complementarias)
-* [9. Consideraciones para pedir tu Project Feedback](#10-consideraciones-para-pedir-tu-project-feedback)
+* [1. Resumen del proyecto](#1-resumen-del-proyecto)
+* [2. Consideraciones generales](#2-consideraciones-generales)
+* [3. Funcionalidades](#3-funcionalidades)
+* [4. Consideraciones técnicas](#4-consideraciones-técnicas)
+* [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
+* [6. Hacker edition](#6-hacker-edition)
+* [7. Objetivos de aprendizaje](#7-objetivos-de-aprendizaje)
+* [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
+* [9. Consideraciones para pedir tu Project Feedback](#9-consideraciones-para-pedir-tu-project-feedback)
 
 ***
 ## 1. Resumen del proyecto
