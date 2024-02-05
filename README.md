@@ -250,7 +250,7 @@ Se generaron los datos con la temática de Cartas Clow del anime de Sakura Card 
 ![Chatgpt-captura](src/imgs/1captura.png) 
 ![chatgpt-captura](src/imgs/captura.png)
 
-## 7. Prototipo de baja fidelidad
+## 7. Prototipo de alta fidelidad
 
 ![prototipo de alta fidelidad](https://github.com/Elisantib/DEV013-text-analyzer/assets/142262726/e894dcd8-96b9-4ad4-96fb-843f9ac73a52)
 
